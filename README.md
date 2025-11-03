@@ -1,5 +1,8 @@
 # Salary Management System (Tkinter)
 
+<!-- Add the application screenshot (place the image at assets/screenshot.png) -->
+![Salary Management System - Screenshot](assets/screenshot.png)
+
 A practical Python GUI application for managing employee salaries and producing payslips. Built with Tkinter and simple CSV persistence for learning and small-scale use.
 
 ## Features
@@ -60,4 +63,8 @@ Include a suitable license (e.g., MIT) if you plan to open-source this project.
 
 ## Contact
 For questions or suggestions, update the repository issues or contact the maintainer listed in the project.
+
+<!-- Hint: save the provided screenshot file as:
+     c:\Users\91899\Desktop\iwp\assets\screenshot.png
+     so GitHub will display it in the README. -->
 
